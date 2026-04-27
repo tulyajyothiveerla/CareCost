@@ -1,0 +1,50 @@
+{
+  "carecostUsers": [
+    {
+      "name": "Tulya",
+      "email": "tulya@example.com",
+      "password": "testpass123"
+    }
+  ],
+  "calendarExpenses": {
+    "2024-01-15": [
+      {
+        "amount": "2500",
+        "category": "Consultation",
+        "notes": "Doctor visit"
+      }
+    ],
+    "2024-01-20": [
+      {
+        "amount": "1200",
+        "category": "Medicine",
+        "notes": "Prescription medicines"
+      }
+    ]
+  },
+  "insurancePolicies": [
+    {
+      "provider": "Star Health",
+      "number": "STAR2024001",
+      "coverage": "500000",
+      "expiry": "2024-12-31",
+      "status": "Approved"
+    }
+  ],
+  "goal": 50000,
+  "saved": 15000,
+  "contributions": [
+    {
+      "amount": 5000,
+      "date": "2024-01-10"
+    },
+    {
+      "amount": 10000,
+      "date": "2024-01-20"
+    }
+  ],
+  "user": {
+    "name": "Tulya",
+    "gender": "female"
+  }
+}
