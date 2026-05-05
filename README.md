@@ -1,4 +1,4 @@
-# CareCost 2.0 — Medical Expense Tracker
+# CareCost  — Medical Expense Tracker
 
 A modern web app for tracking healthcare expenses, insurance policies, savings goals, and visualizing medical costs.
 
